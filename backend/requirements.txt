@@ -1,6 +1,6 @@
 aiofiles
 annotated-types==0.7.0
-anyio==4.8.0
+anyio==4.14.2
 bcrypt==4.0.1
 cffi==1.17.1
 click==8.1.8
